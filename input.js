@@ -19,10 +19,10 @@ function validation() {
         obj.expertise5 = $('#expertise5').val();
         obj.education_year1 = $('#education_year1').val();
         obj.education_year2 = $('#education_year2').val();
-        obj.educaiton_name1 = $('#educaiton_name1').val();
-        obj.educaiton_name2 = $('#educaiton_name2').val();
-        obj.education_garde1 = $('#education_garde1').val();
-        obj.education_garde2 = $('#education_garde2').val();
+        obj.education_name1 = $('#education_name1').val();
+        obj.education_name2 = $('#education_name2').val();
+        obj.education_grade1 = $('#education_grade1').val();
+        obj.education_grade2 = $('#education_grade2').val();
         obj.year1 = $('#year1').val();
         obj.year2 = $('#year2').val();
         obj.year3 = $('#year3').val();
