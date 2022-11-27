@@ -26,20 +26,22 @@
 
 ### star.html
 >유저들이 각각의 template에 대해 1~5점의 별점을 부가하여 추후에 다른 유저들이 해당 평가를 바탕으로 어떤 template이 인기가 좋은지 알 수 있도록하여 template 선정에 도움이 되고자 하였다. 
+>
+>템플릿을 선택하면 선택한 템플릿 number가 url을 통해 input.html로 전달된다.
 
 ### input.html
 >input.html 에서 입력받는 정보들의 id와 각각에 해당하는 내용은 아래와 같다.
->-name (이름)
->-job (직업)
->-address (주소)
->-email (이메일)
->-phone (전화번호)
->-summary (간략한 자기소개)
->-expertise1~5 (다룰 수 있는 프로그래밍 언어나 기술)
->-education_year1~2 (재학기간)
->-educaiton_name1~2 (출신 학교명)
->-education_garde1~2 (고등학교/대학교/대학원)
->-year1~3 (경력 기간/프로젝트 기간)
->-experience_name1~3 (경력명/프로젝트명)
->-job_position1~3 (역할)
->-experience_summary1~3 (경험 요약)
+-name (이름)
+-job (직업)
+-address (주소)
+-email (이메일)
+-phone (전화번호)
+-summary (간략한 자기소개)
+-expertise1~5 (다룰 수 있는 프로그래밍 언어나 기술)
+-education_year1~2 (재학기간)
+-educaiton_name1~2 (출신 학교명)
+-education_garde1~2 (고등학교/대학교/대학원)
+-year1~3 (경력 기간/프로젝트 기간)
+-experience_name1~3 (경력명/프로젝트명)
+-job_position1~3 (역할)
+-experience_summary1~3 (경험 요약)
