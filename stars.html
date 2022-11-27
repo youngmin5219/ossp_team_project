@@ -150,6 +150,7 @@
                     task.stars = task.stars +1
                     task.star = task.stars/task.count
                     task.star = task.star.toFixed(1)
+                    saveTasks();
                     location.reload();
 				});
                 button2.addEventListener("click", () => {
