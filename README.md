@@ -31,6 +31,7 @@
 
 ### input.html
 >input.html 에서 입력받는 정보들의 id와 각각에 해당하는 내용은 아래와 같다.
+>
 -name (이름)
 -job (직업)
 -address (주소)
