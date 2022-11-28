@@ -44,7 +44,7 @@ function validation() {
             location.href="template_navy_top.html";
         }
         else if (template === '2') {
-            location.href="template_blue_2columns.html";
+            location.href="template_blue_2column.html";
         }
         else if (template === '3') {
             location.href="template_lightgray_block.html";
