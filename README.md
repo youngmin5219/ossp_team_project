@@ -19,6 +19,8 @@
 >유저가 자신의 정보를 입력하면 template에 맞게 해당 정보들을 유저가 선택한 template에 입력하여 쉽고 간편하게 이력서를 작성할 수 있도록 한다.
 >정보 입력 시 personal info 파트는 input validation이 적용되어 필수적으로 입력해야 한다.
 >또한 name, job은 숫자를 포함할 수 없으며 email과 phone number는 각각의 형식을 지켜서 작성해야 한다.
+>
+>데이터를 입력한 이후 Save_RESUME 버튼을 클릭해 RESUME를 다운로드 받을 수 있다.
 
 ## Example
 >.
@@ -46,3 +48,9 @@
 - experience_name1~3 (경력명/프로젝트명)
 - job_position1~3 (역할)
 - experience_summary1~3 (경험 요약)
+
+
+### templates
+>input.html에서 정보를 받아와 template에 나타낸다.
+>
+>상단 좌측에 있는 Save 버튼을 클릭해 RESUME div를 저장한다.
