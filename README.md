@@ -27,7 +27,7 @@
 ## Documentation
 
 ### index.html
->유저들에게 가장 먼저 보여지는 페이지이다. 상단에는 REScUeME 로고와 함께 4가지(Home, Template, Video, Tips)의 nav항목을 배치하였다.
+>유저들에게 가장 먼저 보여지는 페이지이다. 상단에는 REScUe ME 로고와 함께 4가지(Home, Template, Video, Tips)의 nav항목을 배치하였다.
 >
 >nav항목 선택을 통해 원하는 곳으로 이동할 수 있다.
 >
