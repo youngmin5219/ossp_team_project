@@ -103,3 +103,25 @@ nav {
   margin-right: 20px;
   margin-left: 20px;
 }
+
+.more {
+  color: white;
+  font-size: 20px;
+  margin-left: 70%;
+  margin-top: 0px;
+  margin-bottom: 50px;
+  cursor: pointer;
+}
+#video_brief {
+  display: none;
+}
+#tip_brief {
+  display: none;
+}
+.video_list_more {
+  display: none;
+}
+.tip_list_more {
+  display: flex;
+  margin-bottom: 100px;
+}
