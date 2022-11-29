@@ -28,15 +28,23 @@
 
 ### index.html
 >유저들에게 가장 먼저 보여지는 페이지이다. 상단에는 REScUeME 로고와 함께 4가지(Home, Template, Video, Tips)의 nav항목을 배치하였다.
+>
 >nav항목 선택을 통해 원하는 곳으로 이동할 수 있다.
 >
+>
 >로고를 클릭할 경우 페이지를 새로고침한다.
+>
 >Home 버튼을 클릭할 경우 이 웹페이지에 대한 소개와 목적성이 나타나있는 #main_page로 이동한다.
+>
 >Template 버튼을 클릭할 경우 template과 관련한 새로운 페이지 star.html로 이동한다.
+>
 >Video 버튼을 클릭할 경우 resume 작성과 관련한 영상들이 나열된 #video_page로 이동한다.
+>
 >Tips 버튼을 클릭할 경우 resume 작성에 대한 유명 인사 및 현직자들의 조언이 있는 #tip_page로 이동한다.
 >
+>
 >#video_page에서는 See More Videos >> 버튼을 클릭할 시 더 많은 video를 확인할 수 있으며 Briefly >> 버튼을 통해 다시 간략히 할 수 있다.
+>
 >#tip_page에서도 See More Tips >> 버튼을 클릭할 시 더 많은 Tip들을 확인할 수 있으며 Briefly >> 버튼을 통해 다시 간략히 할 수 있다.
 
 ### star.html
