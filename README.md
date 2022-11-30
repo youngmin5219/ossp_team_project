@@ -23,9 +23,9 @@
 >데이터를 입력한 이후 Save_RESUME 버튼을 클릭해 RESUME를 다운로드 받을 수 있다.
 
 ## Example
-<img src="./template_img1.PNG" width="200px" height ="300px" title="Github_Logo"/>
-<img src="./template_img2.PNG" width="200px" height ="300px" title="Github_Logo"/>
-<img src="./template_img3.PNG" width="200px" height ="300px" title="Github_Logo"/>
+<img src="./images/template_img1.PNG" width="200px" height ="300px" title="Github_Logo"/>
+<img src="./images/template_img2.PNG" width="200px" height ="300px" title="Github_Logo"/>
+<img src="./images/template_img3.PNG" width="200px" height ="300px" title="Github_Logo"/>
 
 ## Documentation
 
