@@ -1,5 +1,5 @@
-# Ossp_term_project - REScUe ME
-> ## Team 29
+# Ossp_term_project - *REScUe ME*
+> ## *Team 29*
 
 ## Goal
 >이력서를 쓰는데 어려움을 겪고 있는 사람들을 위해 이력서에 대한 tip과 관련 영상들을 제공하고 사용자 정보를 입력하여 쉽게 간단하게 이력서를 만들 수 있는 웹페이지를 제공하고자 한다.
@@ -10,7 +10,7 @@
 ## Presentation Video
 > .
 ## How to visit
-> .
+> https://youngmin5219.github.io/ossp_team_project/
 ## How to use
 >유저가 처음 index.html 파일로 접속을 하여 홈 화면에 있는 tip 및 유튜브 영상들을 보고 이력서를 쓰는 법에 대해 공부를 할 수 있다.
 >
@@ -23,7 +23,10 @@
 >데이터를 입력한 이후 Save_RESUME 버튼을 클릭해 RESUME를 다운로드 받을 수 있다.
 
 ## Example
->.
+<img src="./template_img1.PNG" width="200px" height ="300px" title="Github_Logo"/>
+<img src="./template_img2.PNG" width="200px" height ="300px" title="Github_Logo"/>
+<img src="./template_img3.PNG" width="200px" height ="300px" title="Github_Logo"/>
+
 ## Documentation
 
 ### index.html
@@ -75,3 +78,9 @@
 >input.html에서 정보를 받아와 template에 나타낸다.
 >
 >상단 좌측에 있는 Save 버튼을 클릭해 RESUME div를 저장한다.
+
+### Code of Conduct
+> Adopted Microsoft Open Source Code of Conduct
+
+### License
+> MIT License
