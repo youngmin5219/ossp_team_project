@@ -22,7 +22,7 @@ nav {
 }
 .main {
   height: 1000px;
-  background-image: url("./main_photo.jpg");
+  background-image: url("../images/main_photo.jpg");
   background-size: cover;
   display: flex;
   flex-direction: column;
