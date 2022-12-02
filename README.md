@@ -8,7 +8,7 @@
 ## Screenshot
 >.
 ## Presentation Video
-> .
+> https://youtu.be/9VI8XmxrinM
 ## How to visit
 > https://youngmin5219.github.io/ossp_team_project/
 ## How to use
