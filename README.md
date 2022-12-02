@@ -6,7 +6,16 @@
 
 
 ## Screenshot
->.
+홈페이지  
+<img src="./screenshots/home.png" width="200px" height ="300px">  
+템플릿 선택화면  
+<img src="./screenshots/templates.png" width="200px" height ="150px">  
+정보 입력 화면&input validation 예시  
+<img src="./screenshots/input.png" width="200px" height ="300px"> <img src="./screenshots/validation.PNG" width="200px" height ="300px">  
+템플릿 정보  
+<img src="./screenshots/example1.png" width="200px" height ="250px"> <img src="./screenshots/example2.png" width="200px" height ="250px"> <img src="./screenshots/example3.png" width="200px" height ="200px">  
+
+
 ## Presentation Video
 > https://youtu.be/9VI8XmxrinM
 ## How to visit
