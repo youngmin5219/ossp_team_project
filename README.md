@@ -1,6 +1,8 @@
 # Ossp_term_project - *REScUe ME*
 > ## *Team 29*
 
+<img src="./thumbnail.png" width="300px">  
+
 ## Goal
 >이력서를 쓰는데 어려움을 겪고 있는 사람들을 위해 이력서에 대한 tip과 관련 영상들을 제공하고 사용자 정보를 입력하여 쉽게 간단하게 이력서를 만들 수 있는 웹페이지를 제공하고자 한다.
 
