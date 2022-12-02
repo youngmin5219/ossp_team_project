@@ -1,0 +1,55 @@
+div#left {
+    flex-grow: 1;
+    width: 300;
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    background-color: rgb(99, 121, 153);
+    color: white;
+    border-color: white ;
+  }
+h2{
+    padding-bottom: 10px;
+    margin-left: 30px;
+    margin-bottom: 40px;
+    margin-top: 30px;
+    border-bottom: 3px solid;
+}
+h4{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+h5{
+    margin-top: 0px;
+    margin-left: 30px;
+    font-weight: lighter;
+    margin-bottom: 5px;
+}
+h3{
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-bottom: 5px;
+}
+
+body{
+    margin: 0px;
+}
+li{
+    margin-left: 10px;
+    margin-top: 15px;
+}
+
+div#right{
+    width: 80%;
+    flex-grow: 1;
+    color: rgb(34, 78, 145);
+}
+h2#job{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    border-bottom: 0px;
+}
+h1{
+    margin-left: 30px;
+}
